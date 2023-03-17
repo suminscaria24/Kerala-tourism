@@ -1,0 +1,297 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.back{
+    background-color: rgb(8, 36, 36);
+}
+
+.margin{
+    margin-left: 430px;
+    
+}
+
+.img-size{
+    height: 35%;
+    width: 35%;
+}
+.pos{
+    position: relative;
+    top: -40px;
+}
+.pos2{
+    position: relative;
+    top: -30px;
+}
+
+.nav_item_color{
+    color: azure;
+}
+.font_size{
+    font-size: 10px;
+}
+.on_hov:hover{
+    color: rgb(175, 153, 120);
+}
+
+.fill{
+    color: black;
+}
+
+.mar{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#demo{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    position:relative;
+    top: 80px;
+}
+
+.margin_title{
+    position:relative;
+    left: -480px
+}
+
+.marg1{
+    position: relative;
+}
+.marg2{
+    position: relative;
+}
+.marg3{
+    position: relative;
+    left: -290px;
+}
+.marg4{
+    position: relative;
+    left: -260px;
+}
+.marg5{
+    position: relative;
+    left: -230px;
+}
+
+.marg6{
+    position: relative;
+    left: -200px;
+}
+.marg7{
+    position: relative;
+    left: -170px;
+}
+
+.srch_word{
+    position: relative;
+    left: 10px;
+}
+.btn_position{
+    position: relative;
+    top: -50px;
+    left: 400px;
+}
+
+
+
+
+/*After corousel*/
+
+.marg_head{
+    position: relative;
+    left: 520px;
+}
+
+.card_1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    left: 40px;
+}
+  
+.card_hover:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card_2{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -318px;
+    left: 375px;
+}
+.card_3{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -636px;
+    left: 710px;
+}
+
+.card_4{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -954px;
+    left: 1045px;
+}
+
+.card_5{
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -930px;
+    left: 40px;
+}
+
+.card_6{
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -1248px;
+    left: 375px;
+}
+
+.card_7{
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    height: 20%;
+    width: 20%;
+    top: -1567px;
+    left: 710px;
+}
+.container_5{
+    padding: 2px 16px;
+}
+
+
+
+.marg_container{
+    position: relative;
+    left: 70px;
+}
+
+
+.test{
+    background-color: antiquewhite;
+}
+
+
+.size{
+    height: 455.52px;
+    width: 302.75px;
+}
+
+.marg_gallery{
+    margin-left: 20px;
+}
+.pad{
+    padding: 2px 2px 2px 2px;
+}
+
+.pos_1{
+    background-color: rgba(63, 106, 144, 0.829);
+    color: white;
+    position: relative;
+    top: -24px;
+}
+
+.drop{
+    box-shadow: 15px;
+}
+
+.update{
+    position: relative;
+    bottom: 0px;
+    left: 24px;
+    color: white;
+}
+.account-page{
+    padding: 50px 0;
+    background: radial-gradient(#fff,#32679c);
+}
+.form-container{
+    background: #fff;
+    width: 350px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    padding: 10px 0;
+    margin: auto;
+    box-shadow: 0 0 5px rgba(61, 92, 116, 0.1);
+}
+
+.form-container span{
+    font-weight: bold;
+    padding: 0 10px;
+    color: rgb(68, 32, 32);
+    cursor: pointer;
+    width: 100px;
+    display: inline-block;
+}
+.form-btn{
+    display: inline-block;
+}
+.form-container form{
+    max-width: 300px;
+    padding: 0 50px;
+    position: absolute;
+    top: 130px;
+}
+form input{
+    width: 100%;
+    height: 30px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border:1px solid #ccc;
+}
+form .btn{
+    width: 100%;
+    border:none;
+    cursor:pointer;
+    margin: 10px 0;
+}
+form .btn:focus{
+    outline: none;
+}
+
+#Regform{
+    left: 0;
+}
+form a{
+    font-size: 12px;
+}
+#Indicator{
+    width: 100px;
+    border: none;
+    background: #567aa8;
+    height: 3px;
+    margin-top: 8px;
+    transform: translateX(100px);
+}
+
+
+.pos_12{
+    background-color: rgba(63, 106, 144, 0.829);
+    color: white;
+    position: relative;
+    top: -48px;
+}

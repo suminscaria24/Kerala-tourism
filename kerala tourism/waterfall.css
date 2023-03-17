@@ -1,0 +1,44 @@
+
+.color_waterfall{
+    background-color: rgba(25, 121, 185, 0.6);
+    color: white;
+}
+
+.cont_pos{
+    position: relative;
+    bottom: -10px;
+}
+.color_text{
+    color: white;
+}
+
+.img_lio{
+    object-fit: cover;
+    object-position: 70%;
+}
+
+.img_boa{
+    object-fit: cover;
+}
+
+.pos_1st{
+    background-color: rgba(36, 126, 215, 0.829);
+    color: white;
+    position: relative;
+    top: -48px;
+}
+
+.pos_2nd{
+    background-color: rgba(36, 126, 215, 0.829);
+    color: white;
+    position: relative;
+    top: -48px;
+}
+.col_change{
+    color: white;
+    position: relative;
+    bottom: -30px;
+}
+.col_change:hover{
+    color: rgb(47, 49, 126);
+}
